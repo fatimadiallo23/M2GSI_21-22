@@ -17,6 +17,36 @@
   <defs
      id="defs2">
     <rect
+       x="12.095238"
+       y="125.4881"
+       width="78.653737"
+       height="18.421421"
+       id="rect49" />
+    <rect
+       x="100.59144"
+       y="125.04875"
+       width="6.2207269"
+       height="17.773506"
+       id="rect43" />
+    <rect
+       x="34.017857"
+       y="118.68452"
+       width="0.75595238"
+       height="12.095238"
+       id="rect36" />
+    <rect
+       x="51.809664"
+       y="32.183894"
+       width="1.9168064"
+       height="25.380323"
+       id="rect30" />
+    <rect
+       x="43.845238"
+       y="17.386905"
+       width="7.9644255"
+       height="14.79699"
+       id="rect24" />
+    <rect
        x="15.119048"
        y="131.53571"
        width="3.7797619"
@@ -32,7 +62,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
      inkscape:cx="400"
-     inkscape:cy="560"
+     inkscape:cy="547.14286"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -51,7 +81,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -129,16 +159,56 @@
        inkscape:transform-center-y="0.80307731" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:104.321;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:italic;font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:104.321;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'sans-serif Bold Italic';font-stretch:normal;font-variant:normal;"
        x="17.386906"
        y="130.77975"
        id="text38"><tspan
          x="17.386906"
          y="130.77975"><tspan
-           style="stroke-width:0.264583">BONNE ANNEE</tspan></tspan></text>
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';stroke-width:0.264583">BONNE ANNEE</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text40"
        style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect42);" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:Algerian;white-space:pre;inline-size:74.8974;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:Algerian;font-stretch:normal;font-variant:normal;"
+       x="44.601189"
+       y="18.142857"
+       id="text20"><tspan
+         x="44.601189"
+         y="18.142857"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Algerian;-inkscape-font-specification:Algerian;stroke-width:0.264583">Destinataire</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text22"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect24);" />
+    <text
+       xml:space="preserve"
+       id="text28"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect30);" />
+    <text
+       xml:space="preserve"
+       id="text34"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect36);" />
+    <text
+       xml:space="preserve"
+       id="text41"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect43);" />
+    <text
+       xml:space="preserve"
+       id="text47"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect49);" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;-inkscape-font-specification:'sans-serif Bold Italic';font-stretch:normal;font-variant:normal;"
+       x="128.5119"
+       y="143.63095"
+       id="text55"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         x="128.5119"
+         y="143.63095"
+         style="stroke-width:0.264583;-inkscape-font-specification:'sans-serif Bold Italic';font-family:sans-serif;font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;">souhait</tspan></text>
   </g>
 </svg>
