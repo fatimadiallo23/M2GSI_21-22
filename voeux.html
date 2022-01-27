@@ -22,10 +22,20 @@
             let el = document.getElementById('adjectif');
             el.style.fontSize = "100px";
         }
-        function chargeSvg(url, id){
-            d3.xml(url)
-                .then(data => {
-                    document.getElementById(id).append(data.documentElement)
+        function chargeSvg(url,id){
+            var urlParam = "https://docs.google.com/spreadsheets/d/e/2PACX-1vScMR72RtfGpICZfrjMxL2FARwee1fOrWHVQojzy50mItHSL_b5yw7JN7OvJVX-d36D699S4h53mt4l/pub?gid=433645905&single=true&output=csv";
+            d3.csv(urlParam)
+                .then(dataParam => {
+                    dataParam.forEach((d,i)=>{
+                        d3.xml(url)
+                            .then(data => {
+                                d3.select('#voeux').append('div').attr('id','cartevoeux_'+i).node().append(data.documentElement);
+                                d3.select('#cartevoeux_'+i)
+                                    .select("#text20").text(d['A qui destinez-vous ces vœux?']);
+                                d3.select('#cartevoeux_'+i)
+                                    .select("#text55").text(d['Quels sont vos souhaits?']);
+                            });
+                    })
                 })            
         }
 
